@@ -56,7 +56,7 @@ Para executar o script que classifica o nível do herói, siga os passos abaixo:
 2. **Navegue até o Diretório do Projeto:**
    - Use o comando `cd` para mudar para o diretório onde o arquivo `index.js` está localizado. Por exemplo:
    ```bash
-   cd "C:\Users\DonM\Documents\dio-projects-and-coding-challenges\formacao-logica-de-programacao\desafio-de-projeto"
+   cd "C:\Users\DonM\Documents\dio-projects-and-coding-challenges\formacao-logica-de-programacao\desafio-de-projeto\classificador-de-nivel-de-heroi"
    ```
 
 3. **Execute o Script:**
