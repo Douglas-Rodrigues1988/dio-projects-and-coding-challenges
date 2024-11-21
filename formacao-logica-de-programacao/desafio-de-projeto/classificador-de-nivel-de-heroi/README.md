@@ -72,3 +72,13 @@ Para executar o script que classifica o nível do herói, siga os passos abaixo:
 
 ### Exemplo de Uso
 Após executar o comando `node index.js`, você verá algo como:
+
+---
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias ou correções. Crie um fork do repositório e envie um pull request.
+
+## Licença
+
+Este projeto é de domínio público. Sinta-se livre para usar e modificar como desejar.
