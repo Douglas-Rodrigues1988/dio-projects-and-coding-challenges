@@ -1,6 +1,6 @@
 # Certificado de Conclusão
 
-*Adicione o seu certificado aqui acima do texto.*
+![Certificado](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/blob/main/formacao-logica-de-programacao/image/logica-de-programacao_page-0001.jpg)
 
 ## Detalhes da Formação
 
