@@ -25,3 +25,32 @@ O algoritmo desenvolvido realiza os seguintes passos:
 
 A saída será exibida no formato:
 Posicao final do heroi: [valor_final]
+
+---
+
+## Exemplos
+
+### Entrada e Saída Esperadas
+
+| Entrada | Saída                           |
+|---------|---------------------------------|
+| 2       | Posicao final do heroi: 5       |
+| 3       |                                 |
+|---------|---------------------------------|
+| 15      | Posicao final do heroi: 18      |
+| 3       |                                 |
+|---------|---------------------------------|
+| 10      | Posicao final do heroi: 16      |
+| 6       |                                 |
+
+Certifique-se de testar o programa com diferentes entradas para validar os resultados!
+
+---
+
+## Como Usar
+
+1. Insira a posição inicial do herói e o número total de passos.
+2. O algoritmo calculará automaticamente a posição final.
+3. Visualize o resultado exibido no console.
+
+Boa sorte na jornada do herói!
