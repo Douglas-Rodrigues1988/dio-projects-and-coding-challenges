@@ -1,3 +1,7 @@
+# Certificado de Conclusão
+
+![Certificado](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/blob/main/formacao-html-web-developer/image/certificado-html.jpg)
+
 # Formação Front-end: Iniciando sua Jornada
 
 Você quer começar no mundo do Front-end? Essa é a formação perfeita para iniciar sua jornada e dar os primeiros passos na construção de páginas WEB. 
