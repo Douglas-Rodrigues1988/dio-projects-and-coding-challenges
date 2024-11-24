@@ -15,3 +15,12 @@ evolução no desenvolvimento de software.</p>
 ![Certificado](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/blob/main/formacao-logica-de-programacao/image/logica-de-programacao_page-0001.jpg)
 
 ---
+# Formação HTML web developer
+
+[Desafios e Projetos](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/tree/main/formacao-html-web-developer) 
+
+## Certificado
+
+![Certificado](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/blob/main/formacao-html-web-developer/image/certificado-html.jpg)
+
+---
