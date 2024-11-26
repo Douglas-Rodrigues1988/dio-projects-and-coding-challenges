@@ -1,5 +1,9 @@
 # Página de Listagem de Vídeos do YouTube
 
+![image](https://github.com/Douglas-Rodrigues1988/dio-projects-and-coding-challenges/blob/main/formacao-css-web-developer/desafio-de-projeto/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css/assets/images/reproduzindo-listagem-youtube.PNG)
+
+---
+
 ## 📝 Descrição do Projeto
 
 Este projeto é um **desafio prático** que tem como objetivo construir uma **página de listagem de vídeos no estilo YouTube**, utilizando **CSS** e aplicando os conceitos de **Grid Layout** aprendidos. 
